@@ -1,0 +1,11 @@
+Conceptual Aside 
+
+Syntax Parsers 
+    A progam that reads your code and determines what it does and if its grammar is valid. 
+
+Execution Contexts
+    A wrapper to help manage the code that is running 
+    
+
+Lexical Environments
+    Wher something sits physically in the code you write 
